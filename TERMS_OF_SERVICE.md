@@ -38,7 +38,7 @@ You may NOT:
 - **Coins**: Coins are earned by playing and spent in the App on hints or an extra vial. Coins cannot be bought, sold, or exchanged, and have no real-world or cash value
 - **Stars, Perfects and streaks**: These are game achievements with no real-world value
 - **Rewarded ads**: Watching an optional rewarded ad grants the stated in-game benefit. If an ad fails to load or is closed early, no benefit is granted
-- **Progress storage**: Your progress is stored on your device only. We cannot restore it if you uninstall the App, clear its data, or change devices
+- **Progress storage**: Your progress is stored on your device only. We hold no copy and cannot restore it ourselves; your device's own backup (for example Android backup) may restore it on a new or reset device
 - **Balance changes**: We may adjust coin rewards, prices, levels, and difficulty in updates
 
 ## 7. Disclaimers
@@ -85,19 +85,16 @@ The App is not directed at children under 13. However:
 
 Since we don't have user accounts:
 - You can delete the App anytime
-- Your local data (progress, coins, daily results, and settings) will be removed upon uninstallation
+- Your local data (progress, coins, daily results, and settings) is removed when you uninstall, unless your device's own backup (for example Android backup) restores it
 - No account termination is necessary
 
 ## 12. Governing Law
 
-These Terms shall be governed by the laws of your local jurisdiction, without regard to conflict of law provisions.
+These Terms are governed by the laws of India. If you use the App as a consumer, you also keep the protection of the mandatory laws of the country where you live, and nothing in these Terms takes that away.
 
 ## 13. Dispute Resolution
 
-Any disputes shall be resolved through:
-1. Good faith negotiation
-2. Mediation (if negotiation fails)
-3. Arbitration (binding)
+If you have a problem with the App, please contact us first (see Contact below) so we can try to resolve it informally and in good faith. If we cannot resolve it, either of us may take the dispute to the competent courts, including the courts of the country where you live where your local law gives you that right.
 
 ## 14. Severability
 
