@@ -16,7 +16,7 @@ Sortlock saves the following on your phone, so you can continue where you left o
 - **Streak and coins**: your current and best streak, and your coin balance
 - **Preferences**: sound on or off, your chosen ball style, and which tips you have already seen
 
-None of this is uploaded or sent to us. Uninstalling the app removes everything it stored. Coins have no real-world value and cannot be bought.
+None of this is uploaded or sent to us. Uninstalling the app removes everything it stored; if you use your phone's own backup (for example Android backup to your Google account), your phone may restore this game progress on a new or reset device. That backup is handled by your phone and Google, not by us. Coins have no real-world value and cannot be bought.
 
 ## Advertising (Google AdMob)
 
